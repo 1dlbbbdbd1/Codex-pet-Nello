@@ -1,0 +1,19 @@
+{
+  "package": "codex-nailong-pet",
+  "petId": "nailoong",
+  "validatedOn": "2026-07-10",
+  "validationPassed": true,
+  "format": "WEBP",
+  "mode": "RGBA",
+  "width": 1536,
+  "height": 2288,
+  "columns": 8,
+  "rows": 11,
+  "spriteVersionNumber": 2,
+  "transparentRgbResiduePixels": 0,
+  "opaqueChromaKeyPixels": 0,
+  "chromaFringePixels": 0,
+  "errors": [],
+  "warnings": [],
+  "spritesheetSha256": "4ba05f5a41f3598b1c721ffa964a87850f168f107e26e773a6ea9301e210d859"
+}
