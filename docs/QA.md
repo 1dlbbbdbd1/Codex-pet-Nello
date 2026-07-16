@@ -1,10 +1,10 @@
-# Nello QA
+# Nailoong QA
 
 更新时间：2026-07-16
 
 ## 接口核对
 
-- `pet.json` ID：`nello`
+- `pet.json` ID：`nailoong`
 - `spriteVersionNumber`：`2`
 - 图集路径：`spritesheet.webp`
 - 图集规格：`1536x2288`
@@ -34,7 +34,7 @@
 - 此前程序化生成版本还原度差，已从主版本移除。
 - 当前主版本使用现成高还原 Codex v2 奶龙图集，视觉质量明显更接近奶龙形象。
 - 项目目录已通过 `validate_atlas.py --require-v2`：`ok: true`，`errors: []`，`warnings: []`。
-- 安装目录 `C:\Users\11443\.codex\pets\nello` 已通过同一校验。
+- 安装目录 `C:\Users\11443\.codex\pets\nailoong` 已通过同一校验。
 
 ## 已知限制
 

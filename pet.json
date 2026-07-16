@@ -1,7 +1,7 @@
 {
-  "id": "nello",
-  "displayName": "Nello / 奶龙",
-  "description": "A high-fidelity fan-made Nailoong Codex desktop pet adapted for local Nello install.",
+  "id": "nailoong",
+  "displayName": "Nailoong / 奶龙",
+  "description": "A high-fidelity fan-made Nailoong Codex desktop pet.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
